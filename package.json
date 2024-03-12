@@ -1,0 +1,16 @@
+{
+  "name": "smarthomechain",
+  "version": "1.0.5",
+  "description": "A blockchain-based smart home management system, leveraging secure device verification.",
+  "main": "main.js",
+  "dependencies": {
+    "web3things": "^1.0.0",
+    "deviceverifier": "^1.0.1"
+  },
+  "author": "kaka445",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaka445/smarthomechain"
+  }
+}
